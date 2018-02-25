@@ -43,17 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="DoubleLinkNode.cs" />
-    <Compile Include="DoublyLinkedList.cs" />
-    <Compile Include="LinkedList.cs" />
+    <Compile Include="CustomDS.cs" />
     <Compile Include="Miscellenous.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="SingleLinkNode.cs" />
     <Compile Include="Sorter.cs" />
-    <Compile Include="TNode.cs" />
-    <Compile Include="Tree.cs" />
-    <Compile Include="TreeNode.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
